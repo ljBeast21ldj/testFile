@@ -1,17 +1,17 @@
 
-S	java:S106""9Replace this use of System.out or System.err by a logger.(ó€¹¼ÿÿÿÿÿ
-N	java:S106/"9Replace this use of System.out or System.err by a logger.(‘¢ü
-S	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(¾€ºç
-E
-java:S3740	"/Provide the parametrized type for this generic.(İ¨´ü
-S	java:S106$"9Replace this use of System.out or System.err by a logger.(üÀÜûüÿÿÿÿ
-S	java:S106&"9Replace this use of System.out or System.err by a logger.(Œ‘Å±ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(üÀÜûüÿÿÿÿ
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©ÁÅúÿÿÿÿ
-E
-java:S3740	"/Provide the parametrized type for this generic.(İ¨´ü
-S	java:S106%"9Replace this use of System.out or System.err by a logger.(ö†ÁÈşÿÿÿÿ
 N	java:S106("9Replace this use of System.out or System.err by a logger.(ÍÙ»¹
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©ÁÅúÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(‘¢ü
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¾€ºç
 S	java:S106"9Replace this use of System.out or System.err by a logger.(”ö¤ûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ó€¹¼ÿÿÿÿÿ
 S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÖÕ‹¨úÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+E
+java:S3740	"/Provide the parametrized type for this generic.(İ¨´ü
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Œ‘Å±ÿÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(üÀÜûüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üÀÜûüÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ö†ÁÈşÿÿÿÿ
+E
+java:S3740	"/Provide the parametrized type for this generic.(İ¨´ü
